@@ -54,3 +54,4 @@ buck-out/
 
 android
 ios
+src/config/config.json
